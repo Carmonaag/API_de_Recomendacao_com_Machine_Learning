@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic-settings
+redis
+pandas
+scikit-learn
+joblib
+prometheus-client
+mlflow
+python-dotenv
+psycopg2-binary
+passlib[bcrypt]

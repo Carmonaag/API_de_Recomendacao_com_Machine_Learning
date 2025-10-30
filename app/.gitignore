@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Trained models
+models/
+
+# Data files
+data/*.csv

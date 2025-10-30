@@ -1,0 +1,38 @@
+# --- FastAPI ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Arquivos de ambiente
+venv/
+.venv/
+.env
+.env.local
+.env.dev
+.env.test
+.env.prod
+
+# --- MLflow ---
+mlruns/
+
+# --- Docker ---
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# --- IDEs e sistema ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# --- Build e distribuição ---
+build/
+dist/
+*.egg-info/
+.eggs/

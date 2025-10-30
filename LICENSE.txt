@@ -1,0 +1,25 @@
+Proprietary Software License Agreement
+Copyright (c) 2025 André Garcia Carmona - andregcarmona2008@gmail.com
+
+Todos os direitos reservados.
+
+Este software e sua documentação associada ("Software") são de propriedade exclusiva
+de André Garcia Carmona. Nenhuma parte deste software pode ser usada, copiada,
+modificada, fundida, publicada, distribuída, sublicenciada, vendida ou explorada
+para fins comerciais, educacionais ou pessoais sem **autorização prévia e por escrito**
+do autor.
+
+O uso do Software só é permitido mediante:
+1. Contrato de licenciamento firmado com o autor; ou
+2. Autorização expressa por escrito concedida por André Garcia Carmona.
+
+Qualquer uso não autorizado constitui violação de direitos autorais e está sujeito
+às penalidades previstas na legislação vigente (Lei nº 9.610/1998 – Direitos Autorais).
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM QUALQUER GARANTIA DE
+QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS
+DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO.
+
+Para solicitações de licenciamento, entre em contato:
+📧 andregcarmona2008@gmail.com
+📞 +55 13 99744-7583
